@@ -1,4 +1,4 @@
-Stay Safe Online – Checklist for College Students
+Stay Safe Online â€“ Checklist for College Students
 
 Prevention Tips
 * Use strong, unique passwords for each account (avoid using the same password everywhere) 
@@ -7,9 +7,8 @@ Prevention Tips
 * Always check for HTTPS and correct website URLs before entering login details 
 * Do not click on suspicious links received via email, SMS, or WhatsApp 
 * Avoid using public Wi-Fi for logging into sensitive accounts (banking, email, etc.)
-* Never share OTP, UPI PIN, or bank details with anyone—even if they claim to be from the bank
- 
-*  Double-check UPI payment requests—receiving money does NOT require entering your PIN
+* Never share OTP, UPI PIN, or bank details with anyoneâ€”even if they claim to be from the bank
+* Double-check UPI payment requestsâ€”receiving money does NOT require entering your PIN
 
 If Something Goes Wrong
 * Immediately report incidents on the National Cyber Crime Portal: https://cybercrime.gov.in 
