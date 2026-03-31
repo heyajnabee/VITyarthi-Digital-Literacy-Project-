@@ -1,0 +1,18 @@
+Stay Safe Online – Checklist for College Students
+
+Prevention Tips
+* Use strong, unique passwords for each account (avoid using the same password everywhere) 
+* Enable two-factor authentication (2FA) on email, social media, and banking apps 
+* Keep your devices updated with the latest software and security patches
+* Always check for HTTPS and correct website URLs before entering login details 
+* Do not click on suspicious links received via email, SMS, or WhatsApp 
+* Avoid using public Wi-Fi for logging into sensitive accounts (banking, email, etc.)
+* Never share OTP, UPI PIN, or bank details with anyone—even if they claim to be from the bank
+ 
+*  Double-check UPI payment requests—receiving money does NOT require entering your PIN
+
+If Something Goes Wrong
+* Immediately report incidents on the National Cyber Crime Portal: https://cybercrime.gov.in 
+* Call the Cyber Crime Helpline: 1930 (especially for financial fraud) 
+* Inform your bank quickly to try and block or reverse transactions
+
